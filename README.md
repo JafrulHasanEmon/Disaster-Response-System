@@ -1,3 +1,3 @@
 # Disaster-Response-System
 
-![](screenshots/1 login.png)
+![](screenshots/1_login.png)
